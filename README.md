@@ -15,13 +15,15 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/RamanRed/hacktoberfest-5.git
+
+    git clone https://github.com/RamanRed/hacktoberfest-5.git
 cd qr-code-generator
 Install Required Packages:
 
 bash
 Copy code
-npm install inquirer qr-image
+
+    npm install inquirer qr-image
 Running the Application
 To execute the QR Code Generator, run the following command:
 
