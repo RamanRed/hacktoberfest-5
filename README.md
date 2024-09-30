@@ -26,7 +26,7 @@ The **QR Code Generator** is a simple Node.js application that allows users to i
 
    ```bash
    git clone https://github.com/RamanRed/hacktoberfest-5.git
-   cd qr-code-generator
+ 
    ```
 
 2. **Install Required Packages**:
